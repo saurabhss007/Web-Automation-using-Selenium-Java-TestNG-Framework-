@@ -1,4 +1,4 @@
-# Automated-Web-Application-for-Testing-Selenium-Java-TestNG-
+# Web Automation using Selenium Java (Framework)
 A simple framework based on Page Object Model, Selenium, TestNG using Java.
 This framework is based in Page Object Model (POM).
 
