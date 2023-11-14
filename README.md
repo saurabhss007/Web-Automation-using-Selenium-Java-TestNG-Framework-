@@ -12,6 +12,7 @@ Log4j
 SimpleJavaMail
 
 **The framework gives report in three ways:**
+
 Log - In file logfile.log.
 
 A html report - Which is generated using extent reports, under the folder ExtentReports.
