@@ -13,7 +13,9 @@ SimpleJavaMail
 
 **The framework gives report in three ways:**
 Log - In file logfile.log.
+
 A html report - Which is generated using extent reports, under the folder ExtentReports.
+
 A mail report - For which the toggle mail.sendmail in test.properties should be set true. And all the properties such as smtp host, port, proxy details, etc., should be provided correctly.
 
 
